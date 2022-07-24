@@ -17,4 +17,3 @@ GlobalAIHub_PythonBootcamp
 ●	Hangi yılın toplam "runtime" süresi en fazladır?
 ●	Her bir dilin en fazla kullanıldığı "Genre" nedir?
 ●	Veri setinde outlier veri var mıdır? Açıklayınız.
-s
